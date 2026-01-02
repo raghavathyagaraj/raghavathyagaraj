@@ -10,7 +10,7 @@
       Whether it's batch processing, streaming, or automating ETL, I love every step of it.
       
 🧰 Tech Toolbox:
-PySpark · SQL · AWS · Databricks · Kafka · Airflow · Pyspark · Git
+PySpark · SQL · AWS · Databricks · Kafka · Airflow · Git
 
 🌱 Currently Deep-Diving Into:
 dbt (for modern data transformations)
