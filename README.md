@@ -29,5 +29,5 @@ I’m a night owl coder 🌙 who thinks best with a coffee in hand ☕
 
 📬 Let’s Connect:
 Linked in : linkedin.com/in/thyagaraj-3b199819c
-📧 thyagaraj.raghava@pace.edu
+📧 raghavatyag888@gmail.com
 
